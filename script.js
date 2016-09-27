@@ -5,7 +5,7 @@ function parag1(){
 		document.getElementById('parag1').style.border = "dotted red";
 		document.getElementById('parag1').style.borderWidth = "10px";
 		document.getElementById('parag1').style.padding = "5px";
-		document.getElementById('fond').style.backgroundImage ="url('img.jpg')";
+		document.getElementById('fond').style.backgroundImage ="url('http://m.memegen.com/zkce37.jpg')";
 		document.getElementById('bouton').style.color = "red";
 		document.getElementById('bouton').style.background = "black";
 		document.getElementById('bouton').style.border = "solid red";
